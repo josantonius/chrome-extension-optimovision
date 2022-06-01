@@ -1,0 +1,22 @@
+{
+  "name": "Optimovision",
+  "description": "Automatic download full series on optimovision.tv.",
+  "version": "1.0",
+  "permissions": [
+    "background",
+    "tabs",
+    "activeTab",
+    "downloads"
+  ],
+  "browser_action": {
+    "default_title": "Optimovision",
+    "default_icon": "assets/icon.png"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "manifest_version": 2
+}
