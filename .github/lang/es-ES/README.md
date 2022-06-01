@@ -25,7 +25,9 @@ descargados, se iniciaba la descarga de todos los capítulos.
 
 ## Instalación
 
-- [Descarga](https://github.com/josantonius/chrome-extension-optimovision/archive/master.zip) el repositorio completo
+> Esta extensión está obsoleta. El sitio web para el que se desarrolló ya no existe.
+
+- [Descarga](https://github.com/josantonius/chrome-extension-optimovision/archive/main.zip) el repositorio completo
 o **utiliza Git para clonarlo**.
 
 - **Descomprime el archivo ZIP**.

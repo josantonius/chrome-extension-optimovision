@@ -16,15 +16,16 @@ Automatic download full series on Optimovision.
 
 This extension automatically downloaded full series from the defunct optimovision.tv site.
 
-It worked as follows: you accessed the main page of the series, clicked on the extension, and after inserting the
-chapter number from which to start downloading and the prefix of the downloaded files, the download started.
+It worked as follows: you accessed the main page of the serie, clicked on the extension, and after inserting the chapter number from which to start downloading and the prefix of the downloaded files, the download started.
 
   > I developed this extension during the confinement of the COVID pandemic
   > to download to my grandmother her favorite novels :older_woman:
 
 ## Installation
 
-- [Download](https://github.com/josantonius/chrome-extension-optimovision/archive/master.zip) the full repository
+> This extension is deprecated. The website for which it was developed no longer exists.
+
+- [Download](https://github.com/josantonius/chrome-extension-optimovision/archive/main.zip) the full repository
 or **use Git to clone it**.
 
 - **Unzip the ZIP file**.
